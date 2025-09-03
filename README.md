@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JQUERY
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail.id- astronaut12004@gmail.com 
+- 📫 How to reach me mail.id- jyashh9205@gmail.com 
 
 <!---
 yashh124/yashh124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
